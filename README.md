@@ -1,6 +1,10 @@
-# Windows dev setup
-
-A developer guide for people coming from macOS and Linux
+<header align="center">
+    <div align="center">
+        <img src="icon.png" alt="Logo" width="250" />
+    </div>
+    <h1 align="center">Windows Dev Setup</h1>
+    <p align="center">A developer guide for people coming from macOS and Linux</p>
+</header>
 
 
 
@@ -21,7 +25,7 @@ A developer guide for people coming from macOS and Linux
   git config --global user.email email@email.com
   ```
 
-- Add [GPG](https://help.github.com/en/articles/managing-commit-signature-verification) and [SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh) keys
+- Add [GPG](https://help.github.com/en/articles/managing-commit-signature-verification) and [SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh) keys (still exploring how to integrate the passphrases with keychain so you don't have to type them on each login)
 
 - Install `build-essential`
 
@@ -97,3 +101,5 @@ A developer guide for people coming from macOS and Linux
 
 - [Mac dev setup](https://github.com/divyanshu013/mac-dev-setup)
 - [Dotfiles](https://github.com/divyanshu013/dotfiles)
+
+Icon from [icons8](https://icons8.com)
