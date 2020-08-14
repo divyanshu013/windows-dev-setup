@@ -90,6 +90,7 @@
 - [Figma](https://www.figma.com/downloads/) - design
 - [Boss Tone Studio](https://www.boss.info/global/products/gt-1/downloads/) - guitar processor software
 - [Tunnel Bear](https://www.tunnelbear.com/apps/windows) - VPN
+- [Remembear](https://www.remembear.com/download) - password manager
 - [Zoom](https://zoom.us/download#client_4meeting) - video meetings
 - [VLC](https://www.microsoft.com/en-us/p/vlc/9nblggh4vvnh?activetab=pivot:overviewtab) - media player
 - [Pym](https://www.microsoft.com/en-us/p/pym/9pmtmrnbxmpb?activetab=pivot:overviewtab) - image compression
