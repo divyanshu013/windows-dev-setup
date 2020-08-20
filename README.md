@@ -86,7 +86,7 @@
 - [Studio One](https://www.presonus.com/products/Studio-One) - DAW
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - video editing
 - [Insomnia](https://insomnia.rest/download/#windows) - REST client
-- [Table plus](https://tableplus.com/windows) - DB GUI
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - DB GUI
 - [RunJS](https://runjs.dev/) - JS run environment
 - [MusicXMatch](https://www.microsoft.com/en-us/p/musixmatch-lyrics-sing-along-spotify-itunes-windows-media-player/9wzdncrfj235?activetab=pivot:overviewtab) - lyrics
 - [Figma](https://www.figma.com/downloads/) - design
