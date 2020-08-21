@@ -20,6 +20,8 @@
 
   - **Note**: keep your code in native linux filesystem (i.e. inside `/home/<user>` directory) because WSL2 has [some](https://docs.microsoft.com/en-us/windows/wsl/compare-versions) [known issues](https://github.com/microsoft/WSL/issues/4197) with [cross OS filesystem performance](https://vxlabs.com/2019/12/06/wsl2-io-measurements/)
 
+  - **Troubleshooting**: quite rarely connection to `WSL: Ubuntu` drops from VSCode, the solution is to restart WSL. From powershell run `wsl --shutdown` and restart VSCode
+
 - Setup `git`
 
   ```sh
