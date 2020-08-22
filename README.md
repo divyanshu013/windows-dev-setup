@@ -12,7 +12,9 @@
 
 - [VS Code](https://code.visualstudio.com/Download) - code editor
 
-- [Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - because we all need a terminal
+- Terminal
+  - [Microsoft Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - not as customizable yet but leaner on memory
+  - [Fluent Terminal](https://www.microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab) - better in features than Microsoft's currently but consumes slightly more memory (using this for now)
 
 - [Setup WSL](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide) and [update to WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10#update-to-wsl-2) - Windows Subsystem for Linux is not a VM or dual boot, it's a native POSIX (Portable Operating System Interface Interface) that mounts directly to Windows' file system.
 
