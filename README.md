@@ -12,6 +12,8 @@
 
 - [VS Code](https://code.visualstudio.com/Download) - code editor
 
+- [Cascadia Code](https://github.com/microsoft/cascadia-code) - font
+
 - Terminal
   - [Microsoft Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - not as customizable yet but leaner on memory
   - [Fluent Terminal](https://www.microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab) - better in features than Microsoft's currently but consumes slightly more memory (using this for now)
