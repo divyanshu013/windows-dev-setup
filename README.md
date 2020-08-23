@@ -69,6 +69,8 @@
 - [Ditto](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?activetab=pivot:overviewtab#) - clipboard manager
 - [Power Toys](https://github.com/microsoft/PowerToys) - utilities such as color picker, window management, image resizer, preview pane, run (Alfred / Albert alternative)
 - [Iriun](https://iriun.com/) - use your phone as camera
+- [WOMic](https://wolicheng.com/womic/) - use your phone as microphone
+- [DroidCam](http://www.dev47apps.com/) - features both camera and microphone functionality
 
 
 
