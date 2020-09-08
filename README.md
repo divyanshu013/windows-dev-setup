@@ -71,6 +71,7 @@
 - [Iriun](https://iriun.com/) - use your phone as camera
 - [WOMic](https://wolicheng.com/womic/) - use your phone as microphone
 - [DroidCam](http://www.dev47apps.com/) - features both camera and microphone functionality
+- [Croc](https://github.com/schollz/croc) - CLI file transfer
 
 
 
