@@ -114,6 +114,7 @@
 
 ## Related
 
+- [Linux dev setup](https://github.com/divyanshu013/linux-dev-setup)
 - [Mac dev setup](https://github.com/divyanshu013/mac-dev-setup)
 - [Dotfiles](https://github.com/divyanshu013/dotfiles)
 
