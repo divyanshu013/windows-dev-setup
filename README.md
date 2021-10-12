@@ -109,6 +109,7 @@
 - [Authy](https://www.microsoft.com/en-us/p/pym/9pmtmrnbxmpb?activetab=pivot:overviewtab) - 2FA client
 - [Flip clock](https://fliqlo.com/#/screensaver) - screensaver
 - [Lively](https://github.com/rocksdanister/lively) - use anything as wallpaper
+- [Files](https://github.com/files-community/Files) - better file explorer
 
 
 
