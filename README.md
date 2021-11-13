@@ -67,6 +67,7 @@
 
 - [Quick Look](https://github.com/QL-Win/QuickLook) - quick look for windows, just press <kbd>Space</kbd>, has [some plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)
 - [Ditto](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?activetab=pivot:overviewtab#) - clipboard manager
+- [Twinkle Tray](https://twinkletray.com/) - brightness control for external monitors
 - [Power Toys](https://github.com/microsoft/PowerToys) - utilities such as color picker, window management, image resizer, preview pane, run (Alfred / Albert alternative)
 - [Iriun](https://iriun.com/) - use your phone as camera
 - [WOMic](https://wolicheng.com/womic/) - use your phone as microphone
