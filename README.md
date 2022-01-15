@@ -87,6 +87,7 @@
 ## Apps
 
 - [Typora](https://typora.io/) - markdown editor
+- [MarkText](https://github.com/marktext/marktext) - open source markdown editor
 - [Notion](https://notion.so) - notes and wiki + [addon](https://github.com/dragonwocky/notion-enhancer)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - web browser
 - [Brave](https://brave.com/download/) - alt web browser
