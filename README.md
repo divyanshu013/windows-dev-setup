@@ -60,6 +60,7 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [ag](https://github.com/ggreer/the_silver_searcher)
 - [sudo](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - `youtube-dl` improved
 
 
 
